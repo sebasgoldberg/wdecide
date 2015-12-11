@@ -1,0 +1,41 @@
+{
+    "options":[
+        {"description": "Thomsom"},
+        {"description": "Ecomex"},
+        {"description": "E-IT"}
+    ],
+    "criteria":[
+
+        {"description":"Cadasto importados do SAP", "weight": 1},
+        {"description":"Sincronização de pedidos entre SAP e sistema", "weight": 1},
+        {"description":"Múltipla área de negócios", "weight": 1},
+        {"description":"Segregação de acesso por área ou despachante", "weight": 1},
+        {"description":"Workflow completo de importação e exportação", "weight": 1},
+        {"description":"Controle de data e status", "weight": 1},
+        {"description":"Envio de alertas por email", "weight": 1},
+        {"description":"Previsão de custos e despesas", "weight": 1},
+        {"description":"Comparação de custos e despesas previstos e reais", "weight": 1},
+        {"description":"Armazenamento de documentos digitais do processos", "weight": 1},
+        {"description":"Controle de divergência de dados", "weight": 1},
+        {"description":"Relatórios de views dinâmicas", "weight": 1},
+        {"description":"Gráficos", "weight": 1},
+        {"description":"Sincronização com siscomex", "weight": 1},
+        {"description":"Geração de NF e envio para o SAP", "weight": 1},
+        {"description":"Dashboard", "weight": 1},
+        {"description":"Input de informações do despachante", "weight": 1},
+
+        {"description":"Integração SAP", "weight": 1},
+        {"description":"Homologada SAP", "weight": 1},
+        {"description":"SaaS", "weight": 1},
+        {"description":"Treinamento", "weight": 1},
+        {"description":"Não impacta diretamente quando há atualização do SAP", "weight": 1},
+        {"description":"Integração nativa (por VPN)", "weight": 1},
+        {"description":"Possibilidade de integração por Oracle", "weight": 1},
+        {"description":"Monitoramento da integração", "weight": 1},
+        {"description":"Integração com Retail e FICO (a depender do momento)", "weight": 1},
+        {"description":"Banco de dados", "weight": 1},
+        {"description":"Servidor de APP", "weight": 1},
+        {"description":"Ambiente virtualizado", "weight": 1}
+
+    ]
+}

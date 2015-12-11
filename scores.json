@@ -1,0 +1,147 @@
+{
+    "Ambiente virtualizado": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 10
+    },
+    "Armazenamento de documentos digitais do processos": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Banco de dados": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Cadasto importados do SAP": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Comparação de custos e despesas previstos e reais": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Controle de data e status": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Controle de divergência de dados": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Dashboard": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Envio de alertas por email": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Geração de NF e envio para o SAP": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Gráficos": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Homologada SAP": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Input de informações do despachante": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Integração SAP": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Integração com Retail e FICO (a depender do momento)": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Integração nativa (por VPN)": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Monitoramento da integração": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Múltipla área de negócios": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Não impacta diretamente quando há atualização do SAP": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Possibilidade de integração por Oracle": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Previsão de custos e despesas": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Relatórios de views dinâmicas": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "SaaS": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Segregação de acesso por área ou despachante": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Servidor de APP": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Sincronização com siscomex": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Sincronização de pedidos entre SAP e sistema": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Treinamento": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    },
+    "Workflow completo de importação e exportação": {
+        "E-IT": 1,
+        "Ecomex": 1,
+        "Thomsom": 1
+    }
+}
